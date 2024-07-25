@@ -27,7 +27,7 @@ struct ContentView: View {
                             .fontWeight(.semibold)
                             .foregroundColor(Color(hue: 0.635, saturation: 0.28, brightness: 0.451))
                             .multilineTextAlignment(/*@START_MENU_TOKEN@*/.leading/*@END_MENU_TOKEN@*/)
-                        Text("fun facts!!")
+//                        Text("fun facts!!")
                             .fontWeight(.semibold)
                             .foregroundColor(Color(hue: 0.635, saturation: 0.28, brightness: 0.451))
                         Text("birthday: March 3, 2009")
